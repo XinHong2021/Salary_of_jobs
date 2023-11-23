@@ -21,8 +21,7 @@ Checked the basic information of features as well as balanced labels in train an
 
 ## Supervised machine learning
 
-## Logistic regression
-## Gaussian Naive Bayes
+- Using Logistic regression and Gaussian Naive Bayes to train labeled data
 
 Both of two models gived similar results, with accuracies of 0.21 for GNB and 0.22 for LR. 
 
