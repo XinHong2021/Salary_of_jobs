@@ -1,9 +1,9 @@
 # Salary_of_jobs
 A project in unimelb COMP90049 (Introduction to Machine Learning)
 
-## Reading data
-
 In this project, you will develop and critically analyse models for predicting the the salary of jobs. That is, given a job description, gender class it falls under: balanced male-female (0) or maledominated (1) or female-dominated (2), and the predicted value: salary (mean_salary or salary_bin).
+
+## Reading data
 
 There are two versions of datasets.
 
@@ -23,7 +23,7 @@ Checked the basic information of features as well as balanced labels in train an
 
 - Using Logistic regression and Gaussian Naive Bayes to train labeled data
 
-Both of two models gived similar results, with accuracies of 0.21 for GNB and 0.22 for LR. 
+- Results: Both of two models gived similar results, with accuracies of 0.21 for GNB and 0.22 for LR. 
 
 ## Semi-supervised learning
 
